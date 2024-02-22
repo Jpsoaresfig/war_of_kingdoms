@@ -1,2 +1,2 @@
 # war_of_kingdoms
-trabalho em c feito em grupo na faculdade sobre um jogo 
+Group project in C at the college about a game.
